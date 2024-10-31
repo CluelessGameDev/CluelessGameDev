@@ -1,6 +1,6 @@
-# My Games Portfolio
+# My Portfolio
 
-Welcome to my games portfolio! This repository contains links to my various gaming projects and a brief description of each one.
+Welcome to my portfolio! This repository contains links to my projects. Only Chladni Plates is hosted on this Github page because my other projects are compressed in a way that I cannot upload them through Github. (I don't have the project files as I regularly delete old files I don't think I'm going to want again). This means that the others are on an embedded Itch.io link. Have fun
 
 [Wishlist my game Terminal on Steam!](https://store.steampowered.com/app/3078010/Terminal/)
 
