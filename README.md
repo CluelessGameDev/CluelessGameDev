@@ -12,7 +12,7 @@ Welcome to my games portfolio! This repository contains links to my various gami
 ## Helldivers Stratagem Hero
 ![image](https://github.com/user-attachments/assets/c08e7a39-003f-4bf0-9db3-389cbda8d80f)
 
-[Play Stratagem Hero on Itch.io](https://acluelessdev.itch.io/stratagem-hero)
+[Stratagem Hero](https://itch.io/embed-upload/10320262?color=555555)
 
 
 ## Project 3
