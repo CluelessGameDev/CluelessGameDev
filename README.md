@@ -7,9 +7,10 @@ Welcome to my games portfolio! This repository contains links to my various gami
 
 [Chladni Plates Simulation](https://cluelessgamedev.github.io/ChladniSimulation/)
 
-## Project 2
-![Project 2 Image](placeholder.jpg)
-[Project 2 Website](https://example.com/project2)![Uploading image.png…]()
+## Helldivers Stratagem Hero
+![image](https://github.com/user-attachments/assets/c08e7a39-003f-4bf0-9db3-389cbda8d80f)
+
+[Play Stratagem Hero on Itch.io](https://acluelessdev.itch.io/stratagem-hero)
 
 
 ## Project 3
