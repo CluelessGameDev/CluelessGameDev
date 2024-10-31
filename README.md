@@ -15,6 +15,7 @@ Welcome to my games portfolio! This repository contains links to my various gami
 [Stratagem Hero](https://itch.io/embed-upload/10320262?color=555555)
 
 
-## Project 3
-![Project 3 Image](placeholder.jpg)
-[Project 3 Website](https://example.com/project3)
+## Pacman 3D (first ever project)
+![EHZGU6](https://github.com/user-attachments/assets/a8fa17c2-6356-4412-a4c1-931a0e74d68d)
+
+[Pacman 3D](https://itch.io/embed-upload/8563292?color=473636)
